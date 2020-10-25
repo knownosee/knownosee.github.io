@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Even - A super concise theme for Hugo</title>
+    <title>Categories on Knowno See</title>
     <link>http://knownosee.github.io/categories/</link>
-    <description>Recent content in Categories on Even - A super concise theme for Hugo</description>
+    <description>Recent content in Categories on Knowno See</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0800</lastBuildDate><atom:link href="http://knownosee.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 30 Aug 2018 01:37:56 +0800</lastBuildDate><atom:link href="http://knownosee.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>http://knownosee.github.io/categories/hugo/</link>
+      <pubDate>Thu, 30 Aug 2018 01:37:56 +0800</pubDate>
+      
+      <guid>http://knownosee.github.io/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>category-2</title>
       <link>http://knownosee.github.io/categories/category-2/</link>

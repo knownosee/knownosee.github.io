@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Knowno See</title>
+    <link>http://knownosee.github.io/categories/hugo/</link>
+    <description>Recent content in hugo on Knowno See</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 30 Aug 2018 01:37:56 +0800</lastBuildDate><atom:link href="http://knownosee.github.io/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github Pages with hugo</title>
+      <link>http://knownosee.github.io/post/github-pages-with-hugo/</link>
+      <pubDate>Thu, 30 Aug 2018 01:37:56 +0800</pubDate>
+      
+      <guid>http://knownosee.github.io/post/github-pages-with-hugo/</guid>
+      <description>Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。 安装 hugo 1 $ brew install hugo 生成站点 1 2 3 4 5 $ hugo new site personal_site $ cd personal_site $ hugo new about $ hugo</description>
+    </item>
+    
+  </channel>
+</rss>

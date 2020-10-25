@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Even - A super concise theme for Hugo</title>
+    <title>Knowno See</title>
     <link>http://knownosee.github.io/</link>
-    <description>Recent content on Even - A super concise theme for Hugo</description>
+    <description>Recent content on Knowno See</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0800</lastBuildDate><atom:link href="http://knownosee.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 30 Aug 2018 01:37:56 +0800</lastBuildDate><atom:link href="http://knownosee.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theme preview</title>
       <link>http://knownosee.github.io/post/even-preview/</link>
@@ -22,9 +22,16 @@
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
       <guid>http://knownosee.github.io/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+      <description>Hi, i am knowno.</description>
+    </item>
+    
+    <item>
+      <title>Github Pages with hugo</title>
+      <link>http://knownosee.github.io/post/github-pages-with-hugo/</link>
+      <pubDate>Thu, 30 Aug 2018 01:37:56 +0800</pubDate>
+      
+      <guid>http://knownosee.github.io/post/github-pages-with-hugo/</guid>
+      <description>Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。 安装 hugo 1 $ brew install hugo 生成站点 1 2 3 4 5 $ hugo new site personal_site $ cd personal_site $ hugo new about $ hugo</description>
     </item>
     
     <item>
