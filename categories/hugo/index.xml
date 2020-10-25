@@ -13,7 +13,9 @@
       <pubDate>Thu, 30 Aug 2018 01:37:56 +0800</pubDate>
       
       <guid>http://knownosee.github.io/post/github-pages-with-hugo/</guid>
-      <description>Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。 安装 hugo 1 $ brew install hugo 生成站点 1 2 3 4 5 $ hugo new site personal_site $ cd personal_site $ hugo new about $ hugo</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
   </channel>
